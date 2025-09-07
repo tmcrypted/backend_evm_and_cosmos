@@ -1,6 +1,6 @@
 # Blockchain API
 
-по два ендпоинта для двух sei(EVM) и Cosmos(ATOM) 
+по два ендпоинта для sei(EVM) и Cosmos(ATOM) 
 
 ## Установка
 
